@@ -2,7 +2,7 @@ let scene, renderer, camera, mesh, helper;
 
 let ready = false;
 
-//ブラウザのサイズ
+//browser size
 const windowWidth = window.innerWidth;
 const windowHeight = window.innerHeight;
 
